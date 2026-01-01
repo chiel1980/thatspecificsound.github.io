@@ -1089,19 +1089,21 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'93','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1zdGxdVGZ2aktwdz1GRWpxa0dFQi9MdHYrWThlSmRVXWV0MX5aRHdqb2tuLDg3Z2dPRSZvQSZdZ2JWN1YuSFF0UWFddkJ4WDVHP3k1cy9TRUIsPVkvKzE5M2MsakhpNF1pcGZsdnU1SDQ='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1zRWY/d3JNZ18uMCVPY25SNF9QOVo0SlZCcCV0NSZsU0ZFYndzb3J0VHdwfiVELldZY2xdZmI5dVVaU01qLl1PVk8rc0QseXBLeTFhdjdRRlYzNmdUdkNtNmcyUFBzaG1aYi9RfENsMlY='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '93' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
-			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
 
 			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
-				link.addEventListener( 'click', ( e ) => {
 					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":false} ] );
 				} );
 			});
 		</script></body>
 </html>
+<!--
+	generated in 0.194 seconds
+	126563 bytes batcached for 300 seconds
+-->

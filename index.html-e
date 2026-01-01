@@ -343,7 +343,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 
-<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Create a free website or blog at WordPress.com.</a></p>
+<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a></p>
 
 
 
@@ -758,7 +758,7 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'34','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJOPWtFJWRKQT9GVUsuVE1oOFJ3NFtCZDBrc0J1N0FtZncwTVYrUWI3QW5lUkQtPTRRZj0ya3pubk9BMWdHYXNROXVOSFI3cl0lb1RGdmp3ZVdWTG5QPz96ZTRZNExTQ1g2VCtsJVYxX1U='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJ2aGdGa181PWJZeWxIdlNmNEklQXdtSyVybVFqLzBCPT13N1pWVEk5LEpPMVpCOHItPXgwZmI1amd3VXBiT2ltb2VLdGJWaFYzOStXVFkwSlArfllPUiZkcHdGQWZzeVUlaGVzTCZfP1M='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '34' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>

@@ -5,11 +5,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name='robots' content='max-image-preview:large' />
 <title>Interview &#8211; Rogier Stevens &#8211; Driven &#8211; That specific sound</title>
-<link rel='dns-prefetch' href='//s1.wp.com' />
-<link rel='dns-prefetch' href='//s2.wp.com' />
-<link rel='dns-prefetch' href='//wordpress.com' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//af.pubmine.com' />
 <link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Feed" href="https://thatspecificsound.nl/feed/" />
 <link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Comments Feed" href="https://thatspecificsound.nl/comments/feed/" />
 	<script type="text/javascript">
@@ -1162,12 +1157,12 @@ _stq.push([ 'clickTrackerInit', '247243143', '108' ]);
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
 		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Design a site like this with WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/?ref=marketing_bar">Get started</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/start/?ref=marketing_bar"></a></div>		<script type="text/javascript">
+			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
 
 			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
 				link.addEventListener( 'click', ( e ) => {
-					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":false} ] );
 				} );
 			});
 		</script></body>

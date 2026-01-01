@@ -5,13 +5,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name='robots' content='max-image-preview:large' />
 <title>Interviews &#8211; That specific sound</title>
-<link rel='dns-prefetch' href='//s1.wp.com' />
-<link rel='dns-prefetch' href='//s2.wp.com' />
-<link rel='dns-prefetch' href='//wordpress.com' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//af.pubmine.com' />
-<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Feed" href="https://thatspecificsound.wordpress.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Comments Feed" href="https://thatspecificsound.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Feed" href="https://thatspecificsound.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Comments Feed" href="https://thatspecificsound.nl/comments/feed/" />
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		function addLoadEvent(func) {
@@ -161,7 +156,7 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 </style>
 <link crossorigin='anonymous' rel='stylesheet' id='all-css-44-1' href='/wp-content/themes/h4/global.css?m=1420737423i&cssminify=yes' type='text/css' media='all' />
 <script id="wpcom-actionbar-placeholder-js-extra">
-var actionbardata = {"siteID":"247243143","postID":"46","siteURL":"https://thatspecificsound.wordpress.com","xhrURL":"https://thatspecificsound.wordpress.com/wp-admin/admin-ajax.php","nonce":"fdc7413403","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/PgJpeD-K","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Shortlink copied to clipboard."}};
+var actionbardata = {"siteID":"247243143","postID":"46","siteURL":"https://thatspecificsound.nl","xhrURL":"https://thatspecificsound.nl/wp-admin/admin-ajax.php","nonce":"fdc7413403","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/PgJpeD-K","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Shortlink copied to clipboard."}};
 //# sourceURL=wpcom-actionbar-placeholder-js-extra
 </script>
 <script id="jetpack-mu-wpcom-settings-js-before">
@@ -173,15 +168,15 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
 //# sourceURL=rlt-proxy-js-after
 </script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thatspecificsound.wordpress.com/xmlrpc.php?rsd" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thatspecificsound.nl/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress.com" />
-<link rel="canonical" href="https://thatspecificsound.wordpress.com/interviews/" />
+<link rel="canonical" href="https://thatspecificsound.nl/interviews/" />
 <link rel='shortlink' href='https://wp.me/PgJpeD-K' />
-<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fthatspecificsound.wordpress.com%2Finterviews%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fthatspecificsound.wordpress.com%2Finterviews%2F&amp;for=wpcom-auto-discovery" />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fthatspecificsound.nl%2Finterviews%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fthatspecificsound.nl%2Finterviews%2F&amp;for=wpcom-auto-discovery" />
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Interviews" />
-<meta property="og:url" content="https://thatspecificsound.wordpress.com/interviews/" />
+<meta property="og:url" content="https://thatspecificsound.nl/interviews/" />
 <meta property="og:description" content="We have a RSS feed to see what new interviews have been posted: See the interviews below:- Scott Crouse &#8211; Earth Crisis/Sect- Adam Tanbouz &#8211; He is Legend- Pete Koller &#8211; Sick of it …" />
 <meta property="article:published_time" content="2025-08-13T10:32:45+00:00" />
 <meta property="article:modified_time" content="2025-12-31T15:51:41+00:00" />
@@ -200,7 +195,7 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 <link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico?m=1713425267i" sizes="16x16 24x24 32x32 48x48" />
 <link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico?m=1713425267i" sizes="16x16 24x24 32x32 48x48" />
 <link rel="apple-touch-icon" href="https://s2.wp.com/i/webclip.png?m=1713868326i" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://thatspecificsound.wordpress.com/osd.xml" title="That specific sound" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://thatspecificsound.nl/osd.xml" title="That specific sound" />
 <link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
 <meta name="description" content="We have a RSS feed to see what new interviews have been posted: https://rss.app/feeds/C4KrDOJ4hzEpVlO8.xml See the interviews below:- Scott Crouse - Earth Crisis/Sect- Adam Tanbouz - He is Legend- Pete Koller - Sick of it All- Scott Mellinger - Zao- Mike Schleibaum - Darkest Hour- Niko Gasparrini - Great American Ghost- Bo Lueders - Harm&#039;s&hellip;" />
 <script>
@@ -287,7 +282,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 <div class="wp-block-group wp-container-content-9cfa9a5a is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d275371d wp-block-group-is-layout-flex">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-52f51f41 wp-block-group-is-layout-flex" style="border-bottom-style:dotted;border-bottom-width:1px;padding-top:0;padding-bottom:0.25rem"><p class="has-text-align-center wp-block-site-title"><a href="https://thatspecificsound.wordpress.com" target="_self" rel="home">That specific sound</a></p></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-52f51f41 wp-block-group-is-layout-flex" style="border-bottom-style:dotted;border-bottom-width:1px;padding-top:0;padding-bottom:0.25rem"><p class="has-text-align-center wp-block-site-title"><a href="https://thatspecificsound.nl" target="_self" rel="home">That specific sound</a></p></div>
 
 
 
@@ -303,7 +298,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 <p class="has-text-align-right has-small-font-size" style="line-height:1.25">[<br>[<br>[</p>
 
 
-<nav class="items-justified-center is-vertical wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-734eb2c2 wp-block-navigation-is-layout-flex"><ul class="wp-block-navigation__container items-justified-center is-vertical wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://thatspecificsound.wordpress.com/"><span class="wp-block-navigation-item__label">That specific sound..</span></a></li></ul></nav>
+<nav class="items-justified-center is-vertical wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-734eb2c2 wp-block-navigation-is-layout-flex"><ul class="wp-block-navigation__container items-justified-center is-vertical wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://thatspecificsound.nl/"><span class="wp-block-navigation-item__label">That specific sound..</span></a></li></ul></nav>
 
 
 <p class="has-small-font-size" style="line-height:1.25">]<br>]<br>]</p>
@@ -319,7 +314,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 <main class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-7fc3d43a wp-block-columns-is-layout-flex">
-<div class="wp-block-column has-global-padding is-layout-constrained wp-block-column-is-layout-constrained" style="flex-basis:33.33%"><h1 class="wp-block-post-title"><a href="https://thatspecificsound.wordpress.com/interviews/" target="_self" >Interviews</a></h1></div>
+<div class="wp-block-column has-global-padding is-layout-constrained wp-block-column-is-layout-constrained" style="flex-basis:33.33%"><h1 class="wp-block-post-title"><a href="https://thatspecificsound.nl/interviews/" target="_self" >Interviews</a></h1></div>
 
 
 
@@ -329,7 +324,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 
-<p>See the interviews below:<br><br>&#8211; <a href="https://thatspecificsound.wordpress.com/interview-scott-crouse-earth-crisis-sect/">Scott Crouse &#8211; Earth Crisis/Sect</a><br>&#8211; <a href="https://thatspecificsound.wordpress.com/interview-adam-tanbouz-he-is-legend/">Adam Tanbouz &#8211; He is Legend</a><br>&#8211; Pete Koller &#8211; Sick of it All<br>&#8211; <a href="https://thatspecificsound.wordpress.com/interview-scott-mellinger-zao-lonely-ghost-pack/">Scott Mellinger &#8211; Zao</a><br>&#8211; Mike Schleibaum &#8211; Darkest Hour<br>&#8211; Niko Gasparrini &#8211; Great American Ghost<br>&#8211; <a href="https://thatspecificsound.wordpress.com/interview-bo-lueders-harms-way/">Bo Lueders &#8211; Harm&#8217;s Way</a><br>&#8211; Jordan Buckley &#8211; Every Time I Die/Better Lovers<br>&#8211; Frank Vicario &#8211; Snapcase<br>&#8211; <a href="https://thatspecificsound.wordpress.com/interview-mike-mckenzie-the-red-chord-stomach-earth/">Mike McKenzie &#8211; The Red Chord/Stomach Earth/Umbra Vitae</a><br>&#8211; Mike Scovill/Matt Wood &#8211; One King Down<br>&#8211; <a href="https://thatspecificsound.wordpress.com/interview-rogier-stevens-driven/">Rogier Stevens &#8211; Driven</a><br>&#8211; Josh Middleton &#8211; Sylosis<br>&#8211; Kurt Ballou &#8211; Converge<br>&#8211; Jeff Ling &#8211; Parkway Drive<br>&#8211; Vogg &#8211; Decapitated<br>&#8211; Peter ‘Pepe’ Karmark &#8211; Hatesphere<br>&#8211; Robb Flynn &#8211; Machine Head<br>&#8211; James Hetfield &#8211; Metalica<br>&#8211; James Murphy &#8211; Obituary/Disincarnate/Death<br>&#8211; Fredrik Thordendal &#8211; Meshuggah</p>
+<p>See the interviews below:<br><br>&#8211; <a href="https://thatspecificsound.nl/interview-scott-crouse-earth-crisis-sect/">Scott Crouse &#8211; Earth Crisis/Sect</a><br>&#8211; <a href="https://thatspecificsound.nl/interview-adam-tanbouz-he-is-legend/">Adam Tanbouz &#8211; He is Legend</a><br>&#8211; Pete Koller &#8211; Sick of it All<br>&#8211; <a href="https://thatspecificsound.nl/interview-scott-mellinger-zao-lonely-ghost-pack/">Scott Mellinger &#8211; Zao</a><br>&#8211; Mike Schleibaum &#8211; Darkest Hour<br>&#8211; Niko Gasparrini &#8211; Great American Ghost<br>&#8211; <a href="https://thatspecificsound.nl/interview-bo-lueders-harms-way/">Bo Lueders &#8211; Harm&#8217;s Way</a><br>&#8211; Jordan Buckley &#8211; Every Time I Die/Better Lovers<br>&#8211; Frank Vicario &#8211; Snapcase<br>&#8211; <a href="https://thatspecificsound.nl/interview-mike-mckenzie-the-red-chord-stomach-earth/">Mike McKenzie &#8211; The Red Chord/Stomach Earth/Umbra Vitae</a><br>&#8211; Mike Scovill/Matt Wood &#8211; One King Down<br>&#8211; <a href="https://thatspecificsound.nl/interview-rogier-stevens-driven/">Rogier Stevens &#8211; Driven</a><br>&#8211; Josh Middleton &#8211; Sylosis<br>&#8211; Kurt Ballou &#8211; Converge<br>&#8211; Jeff Ling &#8211; Parkway Drive<br>&#8211; Vogg &#8211; Decapitated<br>&#8211; Peter ‘Pepe’ Karmark &#8211; Hatesphere<br>&#8211; Robb Flynn &#8211; Machine Head<br>&#8211; James Hetfield &#8211; Metalica<br>&#8211; James Murphy &#8211; Obituary/Disincarnate/Death<br>&#8211; Fredrik Thordendal &#8211; Meshuggah</p>
 
 
 
@@ -353,7 +348,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 
-<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a></p>
+<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Create a free website or blog at WordPress.com.</a></p>
 
 
 
@@ -626,11 +621,11 @@ var WPGroHo = {"my_hash":""};
 					<div class="tip-inner">
 						<ul>
 								<li class="actnbr-sitename">
-			<a href="https://thatspecificsound.wordpress.com">
+			<a href="https://thatspecificsound.nl">
 				<img loading='lazy' alt='' src='https://s2.wp.com/i/logo/wpcom-gray-white.png?m=1479929237i' srcset='https://s2.wp.com/i/logo/wpcom-gray-white.png 1x' class='avatar avatar-50' height='50' width='50' />				That specific sound			</a>
 		</li>
 								<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
-							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthatspecificsound.wordpress.com%2Finterviews%2F&#038;signup_flow=account">Log in</a></li>
+							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthatspecificsound.nl%2Finterviews%2F&#038;signup_flow=account">Log in</a></li>
 																<li class="actnbr-shortlink">
 										<a href="https://wp.me/PgJpeD-K">
 											<span class="actnbr-shortlink__text">Copy shortlink</span>
@@ -638,7 +633,7 @@ var WPGroHo = {"my_hash":""};
 										</a>
 									</li>
 																<li class="flb-report">
-									<a href="https://wordpress.com/abuse/?report_url=https://thatspecificsound.wordpress.com/interviews/" target="_blank" rel="noopener noreferrer">
+									<a href="https://wordpress.com/abuse/?report_url=https://thatspecificsound.nl/interviews/" target="_blank" rel="noopener noreferrer">
 										Report this content									</a>
 								</li>
 															<li class="actnbr-subs">
@@ -768,19 +763,22 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'46','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1hd0M3LWNEZDNyenc/fn5YZz85Wj9KcDVWMz1XZ19GU1smQmJYSWlkUDZaMiZMeUFBfmhHTGhMV3o4LyYvJlszc25VLVY9dW43fnVmXXdBNWNYYV8/Q3ltTkErOEwtNixlTE9BRVRBTA=='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1hWF12bX4vRjF1azNFYUU/ZnlIL10wSG1pZzYuYXEmUVdXUjBtQjhnWkFjZjZpRU8uYXlpfk5adElTLW9XcE1hWmNERF1yJmFSR05Ibys5dVEwOGFzTWxTMC40cEpUPUJvXVI9X2gvbDM='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '46' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
-		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Design a site like this with WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/?ref=marketing_bar">Get started</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/start/?ref=marketing_bar"></a></div>		<script type="text/javascript">
+			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
 
 			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
 				link.addEventListener( 'click', ( e ) => {
-					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":false} ] );
 				} );
 			});
 		</script></body>
 </html>
+<!--
+	generated in 0.155 seconds
+	119502 bytes batcached for 300 seconds
+-->

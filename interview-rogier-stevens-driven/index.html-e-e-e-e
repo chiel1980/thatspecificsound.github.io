@@ -1150,13 +1150,12 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'108','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1zd2ZEdjRaY3pXM2hXV1lVeGRjRERoWS1tNTJuWUNSaXRueT1dK1tKczh0NjJTdFBQVz9EPUNTRV9tWmlnUEJKVFl2VHN3Q2dYMUt0Vm1ESm80LG5vOWRCfkYwbld2eDkrb19wbllIbXU='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1hTVlWXS5NST02QzZxQT0/RUM3byZPSGFEOGhKY3pwQnJfRF95TlFsbjhtfnwwYnJMQXdYfj1oRV9+Wk5pS3dob0pHK11yNVkrd0hbVGh4dWFiRXpxfEdaVTBaMHJzTExIeXgxQ0cuVA=='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '108' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
 
-			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
 
 			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
 				link.addEventListener( 'click', ( e ) => {

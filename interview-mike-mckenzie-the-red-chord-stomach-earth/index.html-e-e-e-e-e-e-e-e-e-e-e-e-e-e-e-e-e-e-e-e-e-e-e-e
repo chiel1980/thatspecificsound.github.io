@@ -539,7 +539,6 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 
-<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a></p>
 
 
 
@@ -1091,12 +1090,11 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'235','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1DRUxMLzhWT041NjZhLjVfNklhXXY4dStEbnhZY3piKy5nSSxvN3hjLUxqeHgtcC41Ll9tMDFRRkcvdkRuSkRIaWUtN01oTnRfJl9PN2ladG1yd3VWU05va2VBRWptd1pTRVE5TFAtS0Q='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1zTUF3NyxTdXxFLGZnWUZOfj9wVFNyV0JdRj11aktLc0pqTjJpUWZFaWZnND1tZWNuWVhCaGwvanlpVi9FZ1RGREVCL3YzP2UxZENjXVorSC94MnQraXkvJVc4SnRRM1RzV1k2NC10eHU='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '235' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
-		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Design a site like this with WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/?ref=marketing_bar">Get started</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/start/?ref=marketing_bar"></a></div>		<script type="text/javascript">
 			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
@@ -1108,7 +1106,3 @@ _stq.push([ 'clickTrackerInit', '247243143', '235' ]);
 			});
 		</script></body>
 </html>
-<!--
-	generated in 0.165 seconds
-	133981 bytes batcached for 300 seconds
--->

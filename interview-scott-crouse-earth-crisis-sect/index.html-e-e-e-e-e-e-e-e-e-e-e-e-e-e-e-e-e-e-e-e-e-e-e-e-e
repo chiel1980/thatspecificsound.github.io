@@ -5,11 +5,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name='robots' content='max-image-preview:large' />
 <title>Interview – Scott Crouse – Earth Crisis/Sect &#8211; That specific sound</title>
-<link rel='dns-prefetch' href='//s1.wp.com' />
-<link rel='dns-prefetch' href='//s2.wp.com' />
-<link rel='dns-prefetch' href='//wordpress.com' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//af.pubmine.com' />
 <link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Feed" href="https://thatspecificsound.nl/feed/" />
 <link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Comments Feed" href="https://thatspecificsound.nl/comments/feed/" />
 	<script type="text/javascript">
@@ -1155,12 +1150,11 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'199','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1DdmZZODYrcHl0fndwdWEmWzFuaW1BLlNWLixjZ19HLUVhQ3hNLT1QKyw1aCw5Y3BKdUNRNEdESkNRUVplYXM1XVdzUVFBekZJUnpKTTldZzd+ZkhRb3FUd3V3V1krMlY3c2dSdGh3TDQ='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3c2M1JnlrT3ImMHBRek9kX2w/LVpGNXlpV0g0dz0tLkYxZWtScnozRTIucz9dVHxqcHZCbytmU1p+N3NQZkNTLy40TnZVX04sXXklWHBNa11famUwRjlNdz1EPy9TeUR2LUxMS1lzdlZfb281NVJaMWFJMjMlW1hUQ1tBcVV8WkFNWm1MOGxLfkxdV1VGcn4uZ09DMkNZdlRrZ29aZWhhZUdDbXU1VWh2OTQ1bTZhQWhWWTVjZ3xNLD9zV3orLzlIdCtXdmpaVjclMVBiVUduVERWYV0lQU9pREctTDVbRmUvMC92dj91U3ZaTUo='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '199' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
-		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Design a site like this with WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/?ref=marketing_bar">Get started</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/start/?ref=marketing_bar"></a></div>		<script type="text/javascript">
 			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
@@ -1172,7 +1166,3 @@ _stq.push([ 'clickTrackerInit', '247243143', '199' ]);
 			});
 		</script></body>
 </html>
-<!--
-	generated in 0.188 seconds
-	131626 bytes batcached for 300 seconds
--->

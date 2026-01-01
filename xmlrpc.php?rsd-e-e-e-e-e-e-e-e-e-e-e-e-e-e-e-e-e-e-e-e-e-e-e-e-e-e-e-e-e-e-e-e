@@ -2,12 +2,12 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>https://wordpress.org/</engineLink>
-    <homePageLink>https://thatspecificsound.wordpress.com</homePageLink>
+    <homePageLink>https://thatspecificsound.nl</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="https://thatspecificsound.wordpress.com/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://thatspecificsound.wordpress.com/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://thatspecificsound.wordpress.com/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="https://thatspecificsound.wordpress.com/xmlrpc.php" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="https://thatspecificsound.nl/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="https://thatspecificsound.nl/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://thatspecificsound.nl/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="https://thatspecificsound.nl/xmlrpc.php" />
       <api name="Twitter" blogID="" preferred="false" apiLink="https://twitter-api.wordpress.com/" />
     </apis>
   </service>

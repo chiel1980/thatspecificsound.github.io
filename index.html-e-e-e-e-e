@@ -10,8 +10,8 @@
 <link rel='dns-prefetch' href='//wordpress.com' />
 <link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//af.pubmine.com' />
-<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Feed" href="https://thatspecificsound.nl/feed/" />
-<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Comments Feed" href="https://thatspecificsound.nl/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Feed" href="https://thatspecificsound.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="That specific sound &raquo; Comments Feed" href="https://thatspecificsound.wordpress.com/comments/feed/" />
 	<script type="text/javascript">
 		/* <![CDATA[ */
 		function addLoadEvent(func) {
@@ -161,7 +161,7 @@ h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-backg
 </style>
 <link crossorigin='anonymous' rel='stylesheet' id='all-css-44-1' href='/wp-content/themes/h4/global.css?m=1420737423i&cssminify=yes' type='text/css' media='all' />
 <script id="wpcom-actionbar-placeholder-js-extra">
-var actionbardata = {"siteID":"247243143","postID":"34","siteURL":"https://thatspecificsound.nl","xhrURL":"https://thatspecificsound.nl/wp-admin/admin-ajax.php","nonce":"fdc7413403","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/PgJpeD-y","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Shortlink copied to clipboard."}};
+var actionbardata = {"siteID":"247243143","postID":"34","siteURL":"https://thatspecificsound.wordpress.com","xhrURL":"https://thatspecificsound.wordpress.com/wp-admin/admin-ajax.php","nonce":"fdc7413403","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/PgJpeD-y","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Shortlink copied to clipboard."}};
 //# sourceURL=wpcom-actionbar-placeholder-js-extra
 </script>
 <script id="jetpack-mu-wpcom-settings-js-before">
@@ -173,16 +173,16 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
 //# sourceURL=rlt-proxy-js-after
 </script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thatspecificsound.nl/xmlrpc.php?rsd" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thatspecificsound.wordpress.com/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress.com" />
-<link rel="canonical" href="https://thatspecificsound.nl/" />
+<link rel="canonical" href="https://thatspecificsound.wordpress.com/" />
 <link rel='shortlink' href='https://wp.me/PgJpeD-y' />
-<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fthatspecificsound.nl%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fthatspecificsound.nl%2F&amp;for=wpcom-auto-discovery" />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fthatspecificsound.wordpress.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fthatspecificsound.wordpress.com%2F&amp;for=wpcom-auto-discovery" />
 <!-- Jetpack Open Graph Tags -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="That specific sound" />
 <meta property="og:description" content="Always wanted to know what specific guitar gear your favorite hardcore/metal gitarist played on that specific record or live sound?" />
-<meta property="og:url" content="https://thatspecificsound.nl/" />
+<meta property="og:url" content="https://thatspecificsound.wordpress.com/" />
 <meta property="og:site_name" content="That specific sound" />
 <meta property="og:image" content="https://s0.wp.com/i/blank.jpg?m=1383295312i" />
 <meta property="og:image:width" content="200" />
@@ -198,7 +198,7 @@ var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-pl
 <link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico?m=1713425267i" sizes="16x16 24x24 32x32 48x48" />
 <link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico?m=1713425267i" sizes="16x16 24x24 32x32 48x48" />
 <link rel="apple-touch-icon" href="https://s2.wp.com/i/webclip.png?m=1713868326i" />
-<link rel="search" type="application/opensearchdescription+xml" href="https://thatspecificsound.nl/osd.xml" title="That specific sound" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://thatspecificsound.wordpress.com/osd.xml" title="That specific sound" />
 <link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
 <meta name="description" content="Welcome to That Specific Sound: a website dedicated to some of the world’s greatest hardcore and metal guitarists, showcasing their rigs used in both studio recordings and live performances — revealing the secrets behind the unique sounds you’ve always wondered about.Check the Interviews sections to see the short interviews I conducted.See the About page to&hellip;" />
 <script>
@@ -285,7 +285,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 <div class="wp-block-group wp-container-content-9cfa9a5a is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-d275371d wp-block-group-is-layout-flex">
-<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-52f51f41 wp-block-group-is-layout-flex" style="border-bottom-style:dotted;border-bottom-width:1px;padding-top:0;padding-bottom:0.25rem"><p class="has-text-align-center wp-block-site-title"><a href="https://thatspecificsound.nl" target="_self" rel="home" aria-current="page">That specific sound</a></p></div>
+<div class="wp-block-group is-vertical is-content-justification-stretch is-layout-flex wp-container-core-group-is-layout-52f51f41 wp-block-group-is-layout-flex" style="border-bottom-style:dotted;border-bottom-width:1px;padding-top:0;padding-bottom:0.25rem"><p class="has-text-align-center wp-block-site-title"><a href="https://thatspecificsound.wordpress.com" target="_self" rel="home" aria-current="page">That specific sound</a></p></div>
 
 
 
@@ -301,7 +301,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 <p class="has-text-align-right has-small-font-size" style="line-height:1.25">[<br>[<br>[</p>
 
 
-<nav class="items-justified-center is-vertical wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-734eb2c2 wp-block-navigation-is-layout-flex"><ul class="wp-block-navigation__container items-justified-center is-vertical wp-block-navigation"><li class=" wp-block-navigation-item current-menu-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://thatspecificsound.nl/" aria-current="page"><span class="wp-block-navigation-item__label">That specific sound..</span></a></li></ul></nav>
+<nav class="items-justified-center is-vertical wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-734eb2c2 wp-block-navigation-is-layout-flex"><ul class="wp-block-navigation__container items-justified-center is-vertical wp-block-navigation"><li class=" wp-block-navigation-item current-menu-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://thatspecificsound.wordpress.com/" aria-current="page"><span class="wp-block-navigation-item__label">That specific sound..</span></a></li></ul></nav>
 
 
 <p class="has-small-font-size" style="line-height:1.25">]<br>]<br>]</p>
@@ -317,13 +317,13 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 <main class="wp-block-group alignwide has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-7fc3d43a wp-block-columns-is-layout-flex">
-<div class="wp-block-column has-global-padding is-layout-constrained wp-block-column-is-layout-constrained" style="flex-basis:33.33%"><h1 class="wp-block-post-title"><a href="https://thatspecificsound.nl/" target="_self" >That specific sound..</a></h1></div>
+<div class="wp-block-column has-global-padding is-layout-constrained wp-block-column-is-layout-constrained" style="flex-basis:33.33%"><h1 class="wp-block-post-title"><a href="https://thatspecificsound.wordpress.com/" target="_self" >That specific sound..</a></h1></div>
 
 
 
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
 <div class="wp-block-group alignwide has-global-padding is-content-justification-left is-layout-constrained wp-container-core-group-is-layout-12dd3699 wp-block-group-is-layout-constrained"><div class="entry-content alignwide wp-block-post-content has-global-padding is-content-justification-center is-layout-constrained wp-block-post-content-is-layout-constrained">
-<p>Welcome to <em>That Specific Sound</em>: a website dedicated to some of the world’s greatest hardcore and metal guitarists, showcasing their rigs used in both studio recordings and live performances — revealing the secrets behind the unique sounds you’ve always wondered about.<br><br>Check the <a href="https://thatspecificsound.nl/interviews/">Interviews</a> sections to see the short interviews I conducted.<br><br>See the <a href="https://thatspecificsound.nl/about/">About</a> page to get a bit more detailed information why I decided to start this page.<br><br>Enjoy! <br>Michiel</p>
+<p>Welcome to <em>That Specific Sound</em>: a website dedicated to some of the world’s greatest hardcore and metal guitarists, showcasing their rigs used in both studio recordings and live performances — revealing the secrets behind the unique sounds you’ve always wondered about.<br><br>Check the <a href="https://thatspecificsound.wordpress.com/interviews/">Interviews</a> sections to see the short interviews I conducted.<br><br>See the <a href="https://thatspecificsound.wordpress.com/about/">About</a> page to get a bit more detailed information why I decided to start this page.<br><br>Enjoy! <br>Michiel</p>
 </div></div>
 </div>
 </div>
@@ -343,7 +343,7 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 
-<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_website" rel="nofollow">Create a free website or blog at WordPress.com.</a></p>
+<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a></p>
 
 
 
@@ -616,11 +616,11 @@ var WPGroHo = {"my_hash":""};
 					<div class="tip-inner">
 						<ul>
 								<li class="actnbr-sitename">
-			<a href="https://thatspecificsound.nl">
+			<a href="https://thatspecificsound.wordpress.com">
 				<img loading='lazy' alt='' src='https://s2.wp.com/i/logo/wpcom-gray-white.png?m=1479929237i' srcset='https://s2.wp.com/i/logo/wpcom-gray-white.png 1x' class='avatar avatar-50' height='50' width='50' />				That specific sound			</a>
 		</li>
 								<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
-							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthatspecificsound.nl%2F&#038;signup_flow=account">Log in</a></li>
+							<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fthatspecificsound.wordpress.com%2F&#038;signup_flow=account">Log in</a></li>
 																<li class="actnbr-shortlink">
 										<a href="https://wp.me/PgJpeD-y">
 											<span class="actnbr-shortlink__text">Copy shortlink</span>
@@ -628,7 +628,7 @@ var WPGroHo = {"my_hash":""};
 										</a>
 									</li>
 																<li class="flb-report">
-									<a href="https://wordpress.com/abuse/?report_url=https://thatspecificsound.nl/" target="_blank" rel="noopener noreferrer">
+									<a href="https://wordpress.com/abuse/?report_url=https://thatspecificsound.wordpress.com/" target="_blank" rel="noopener noreferrer">
 										Report this content									</a>
 								</li>
 															<li class="actnbr-subs">
@@ -758,7 +758,7 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'34','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJ2UjdweFVuOF9jQ3xqQis4QTE0LDYrUmg4XVNKUzY5QX4lXVRTbXFCZnVXQ2lUMEFzQWYscklIZXAwYkpLcE1Cc1dYLj9EeC1oUVF0XVc9YWdad2plS055TzhXLH4tcWx3QkhMVHV1aUg='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJFPTRsd2JIZlJ1cUlFOS0yeD82fmhRfHI2U2lIVn5NODNBWnNRVmxzaC5QVS1aTDJCOCxMPUNKYzUlTkUxdVYrU0VxZ19tNmkyRF1Pc25bZ0VpQVdXWEdSYz1IfjZ2VXo0OVRHcm5bMkk='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '34' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>

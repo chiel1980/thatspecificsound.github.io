@@ -758,7 +758,7 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'34','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJFcWt2QmxlM1hlek5QU11yNkdrcjBpMXdmNy1XbXdTfjAzbStzU1haa3RwSU1paGtdfjY0MDEuWS4ybHVxanZUVmFJdXxNMlNMXWluLVBySE9NZkVhSXFJRSxKcmhtR0lMMTlBV2FwWG4='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJOU084N3lZW0tKS0N0LUQsd1VmWyxTRyx3RG1uRExpeExydm1NK0dRMzU1cV1Ed343eHJ4Nnx1T2V+S2FsWS9dXWdkZUcvJUQ4VjdqU3UzdUpzeGNIYnpOUCVlW0FvJkdbVHElS2tfeGU='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '34' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>

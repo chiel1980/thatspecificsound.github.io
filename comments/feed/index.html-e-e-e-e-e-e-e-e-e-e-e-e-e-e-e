@@ -9,10 +9,10 @@
 <channel>
 	<title>
 	Comments for That specific sound	</title>
-	<atom:link href="https://thatspecificsound.nl/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thatspecificsound.nl</link>
+	<atom:link href="https://thatspecificsound.wordpress.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thatspecificsound.wordpress.com</link>
 	<description>Always wanted to know what specific guitar gear your favorite hardcore/metal gitarist played on that specific record or live sound?</description>
-	<lastBuildDate>Thu, 01 Jan 2026 13:58:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jan 2026 18:13:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

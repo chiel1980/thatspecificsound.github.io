@@ -758,7 +758,7 @@ _stq = window._stq || [];
 _tkq.push(['storeContext', {'blog_id':'247243143','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
 		// Prevent sending pageview tracking from WP-Admin pages.
 		_stq.push(['view', {'blog':'247243143','v':'wpcom','tz':'1','user_id':'0','post':'34','subd':'thatspecificsound'}]);
-		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJFcWt2QmxlM1hlek5QU11yNkdrcjBpMXdmNy1XbXdTfjAzbStzU1haa3RwSU1paGtdfjY0MDEuWS4ybHVxanZUVmFJdXxNMlNMXWluLVBySE9NZkVhSXFJRSxKcmhtR0lMMTlBV2FwWG4='}]);
+		_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWFnNncxc1tjZG9XVXhRUmpicH5telcxaTdGUkVUel98dzZqW29hR11ySCt3dXFNK3FwbFNOdk00TkdYXU9aMTNoSjQ/QnUxd1NrMWZFYU5SSkptTC9wcFpUbVVQKzJVR09FP1JpWyx+LVk4VHdDJUZLTllzJmhUJmozUz1nLFBvMyZBP3Z+NExOMCsxNEpuejcvUElTWkYwLFZ3N05VRFFKUGJOU084N3lZW0tKS0N0LUQsd1VmWyxTRyx3RG1uRExpeExydm1NK0dRMzU1cV1Ed343eHJ4Nnx1T2V+S2FsWS9dXWdkZUcvJUQ4VjdqU3UzdUpzeGNIYnpOUCVlW0FvJkdbVHElS2tfeGU='}]);
 _stq.push([ 'clickTrackerInit', '247243143', '34' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
@@ -766,10 +766,10 @@ _stq.push([ 'clickTrackerInit', '247243143', '34' ]);
 		<script defer src="/wp-content/js/bilmur.min.js?i=17&amp;m=202601"></script> 	<div id="marketingbar" class="marketing-bar noskim  "><div class="marketing-bar-text">Design a site like this with WordPress.com</div><a class="marketing-bar-button" href="https://wordpress.com/start/?ref=marketing_bar">Get started</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/start/?ref=marketing_bar"></a></div>		<script type="text/javascript">
 			window._tkq = window._tkq || [];
 
-			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
 
 			document.querySelectorAll( '#marketingbar > a' ).forEach( link => {
 				link.addEventListener( 'click', ( e ) => {
+					window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_cta_click', {"is_current_user_blog_owner":false} ] );
 				} );
 			});
 		</script></body>

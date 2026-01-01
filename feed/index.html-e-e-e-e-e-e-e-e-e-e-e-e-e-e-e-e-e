@@ -10,8 +10,8 @@
 
 <channel>
 	<title>That specific sound</title>
-	<atom:link href="https://thatspecificsound.nl/feed/" rel="self" type="application/rss+xml" />
-	<link>https://thatspecificsound.nl</link>
+	<atom:link href="https://thatspecificsound.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://thatspecificsound.wordpress.com</link>
 	<description>Always wanted to know what specific guitar gear your favorite hardcore/metal gitarist played on that specific record or live sound?</description>
 	<lastBuildDate>Thu, 20 Nov 2025 17:11:45 +0000</lastBuildDate>
 	<language>en</language>
@@ -20,26 +20,26 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>http://wordpress.com/</generator>
-<site xmlns="com-wordpress:feed-additions:1">247243143</site><cloud domain='thatspecificsound.nl' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<site xmlns="com-wordpress:feed-additions:1">247243143</site><cloud domain='thatspecificsound.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
 <image>
 		<url>https://s0.wp.com/i/buttonw-com.png</url>
 		<title>That specific sound</title>
-		<link>https://thatspecificsound.nl</link>
+		<link>https://thatspecificsound.wordpress.com</link>
 	</image>
-	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://thatspecificsound.nl/osd.xml" title="That specific sound" />
-	<atom:link rel='hub' href='https://thatspecificsound.nl/?pushpress=hub'/>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://thatspecificsound.wordpress.com/osd.xml" title="That specific sound" />
+	<atom:link rel='hub' href='https://thatspecificsound.wordpress.com/?pushpress=hub'/>
 	<item>
 		<title>New interview: Scott Crouse of Earth Crisis/Sect!</title>
-		<link>https://thatspecificsound.nl/2025/11/20/new-interview-scott-crouse-of-earth-crisis-sect/</link>
+		<link>https://thatspecificsound.wordpress.com/2025/11/20/new-interview-scott-crouse-of-earth-crisis-sect/</link>
 		
 		<dc:creator><![CDATA[thatspecificsound]]></dc:creator>
 		<pubDate>Thu, 20 Nov 2025 17:08:16 +0000</pubDate>
 				<category><![CDATA[Geen categorie]]></category>
-		<guid isPermaLink="false">http://thatspecificsound.nl/?p=213</guid>
+		<guid isPermaLink="false">http://thatspecificsound.wordpress.com/?p=213</guid>
 
-					<description><![CDATA[Check his interview here: https://thatspecificsound.nl/interview-scott-crouse-earth-crisis-sect/ or go to the Interviews section on this website.]]></description>
+					<description><![CDATA[Check his interview here: https://thatspecificsound.wordpress.com/interview-scott-crouse-earth-crisis-sect/ or go to the Interviews section on this website.]]></description>
 										<content:encoded><![CDATA[
-<p>Check his interview here: <a href="https://thatspecificsound.nl/interview-scott-crouse-earth-crisis-sect/">https://thatspecificsound.nl/interview-scott-crouse-earth-crisis-sect/</a> or go to the Interviews section on this website.</p>
+<p>Check his interview here: <a href="https://thatspecificsound.wordpress.com/interview-scott-crouse-earth-crisis-sect/">https://thatspecificsound.wordpress.com/interview-scott-crouse-earth-crisis-sect/</a> or go to the Interviews section on this website.</p>
 ]]></content:encoded>
 					
 		

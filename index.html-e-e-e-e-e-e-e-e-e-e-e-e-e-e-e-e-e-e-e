@@ -338,7 +338,6 @@ var wa_client = {}; wa_client.cmd = []; wa_client.config = { 'blog_id': 24724314
 
 
 
-<p class="has-text-align-left">Created for focused &amp; vintage writers.<br><a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a></p>
 
 
 
@@ -758,7 +757,6 @@ _stq.push([ 'clickTrackerInit', '247243143', '34' ]);
 </script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
 <meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Europe/Amsterdam" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/archivist&quot;,&quot;wptheme_is_block&quot;:&quot;1&quot;}"  >
-			window._tkq = window._tkq || [];
 
 			window._tkq.push( [ 'recordEvent', 'wpcom_marketing_bar_impression', {"is_current_user_blog_owner":false} ] );
 

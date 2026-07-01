@@ -4,17 +4,17 @@
    racks rather than a generic dark-mode default.
    ========================================================================= */
 :root {
-  --bg: #0a0d11;
-  --bg-raised: #12171d;
-  --bg-card: #161c23;
-  --border: #2b343e;
-  --border-soft: #1c232b;
-  --text: #e7edf2;
-  --text-muted: #8ea0ad;
-  --accent: #4f9fd6;
-  --accent-strong: #7cc4ec;
-  --accent-soft: rgba(79, 159, 214, 0.14);
-  --signal: #c4574a;
+  --bg: #0d0a0a;
+  --bg-raised: #150f0f;
+  --bg-card: #181212;
+  --border: #362323;
+  --border-soft: #241818;
+  --text: #eee7e7;
+  --text-muted: #a98a8a;
+  --accent: #c4433a;
+  --accent-strong: #e2665a;
+  --accent-soft: rgba(226, 102, 90, 0.14);
+  --signal: #8ea0ad;
 
   --font-display: "Oswald", "Arial Narrow", sans-serif;
   --font-body: "Source Serif 4", Georgia, serif;
@@ -31,7 +31,7 @@ body {
   margin: 0;
   background: var(--bg);
   background-image:
-    radial-gradient(ellipse 900px 500px at 50% -10%, rgba(79,159,214,0.08), transparent 60%);
+    radial-gradient(ellipse 900px 500px at 50% -10%, rgba(226,102,90,0.08), transparent 60%);
   color: var(--text);
   font-family: var(--font-body);
   font-size: 17px;
